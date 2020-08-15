@@ -1,6 +1,6 @@
 #!/usr/bin/python2
-# Author : ./FUKUR0-3XP
-# Team : Black Coders Anonymous Satanic Exploiter Team ( BCA - X666X )
+# Author : ./Mr.KingOf.Bar
+# Team : TEAM ATTACKER IS SO SUFFE 
 # Apa Liat Liat ? Mau Recode ? >_<
 # Belajar Boleh, Asalkan Jangan Recode Yak >_<
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
@@ -46,14 +46,21 @@ def banner():
 		print(''+C+'''
 	
  
-       _                       _____            
-      | |                     / ____|           
-      | |___  ___    ______  | |  __  ___ _ __  
-  _   | / __|/ _ \  |______| | | |_ |/ _ \ '_ \ 
- | |__| \__ \ (_) |          | |__| |  __/ | | |
-  \____/|___/\___/            \_____|\___|_| |_|
-                                                
-                '''+W+'Creator : ./Fukur0\n\t\tYT : Jejak Cyber')
+             ____          _____ _  _   _____  _  _     __ __ _    _
+|  _ \        | ____| || | |  __ \| || |   / //_ | |  | |
+| |_) |_   _  | |__ | || |_| |__) | || |_ / /_ | | |__| |
+|  _ <| | | | |___ \|__   _|  _  /|__   _| '_ \| |  __  |
+| |_) | |_| |  ___) |  | | | | \ \   | | | (_) | | |  | |
+|____/ \__, | |____/   |_| |_|  \_\  |_|  \___/|_|_|  |_|
+        __/ |                                        
+       |___/      
+                 
+ 
+  
+ 
+ 
+                                               
+                '''+W+'Creator : Mr.KingOf.Bar 
 
 def pastebin(jso):
 	get = requests.get('http://pastebin.com')
